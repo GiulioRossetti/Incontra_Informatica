@@ -1,6 +1,6 @@
 # Processi diffusivi su Reti @ Incontra Informatica 2021
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GiulioRossetti/NDlib_Incontra_Informatica/HEAD)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/GiulioRossetti/NDlib_Incontra_Informatica)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GiulioRossetti/NDlib_Incontra_Informatica)
 
 
 Questo repository contiene il notebook e le slide usate nel laboratorio "Processi diffusivi su Reti".
