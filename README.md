@@ -3,7 +3,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GiulioRossetti/NDlib_Incontra_Informatica)
 
 
-Questo repository contiene il notebook e le slide usate nel laboratorio "Processi diffusivi su Reti".
+Questo repository contiene il notebook e le [slides](https://docs.google.com/presentation/d/1tzH1_Ij2iTjqFIHDNLX7LSFQ72eOIgWQWRRFc_wK21I/edit?usp=sharing) usate nel laboratorio "Processi diffusivi su Reti".
 Il laboratorio è una attività di orientamento per gli studenti delle scuole superiori organizzata dal Dipartimento di Informatica dell'Università di Pisa.
 
 ### Descrizione Incontro   
