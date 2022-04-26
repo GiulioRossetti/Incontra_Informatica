@@ -1,4 +1,4 @@
-# Processi diffusivi su Reti @ Incontra Informatica 2021
+# Processi diffusivi su Reti @ Incontra Informatica 2022
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GiulioRossetti/NDlib_Incontra_Informatica/HEAD)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GiulioRossetti/NDlib_Incontra_Informatica)
 
