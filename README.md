@@ -6,7 +6,7 @@ I laboratori elencati in questo repository nascono come attività di orientament
 
 ---
 
-### Intro to Social Network Analysis (2023)
+### Intro to Social Network Analysis (2023 & 2024)
 
 [Slides](https://docs.google.com/presentation/d/14jFMJ8QU-PAx69Hz2lhiQngTv1vutRxRYyOvCSlV2d4/edit?usp=sharing) 
 
