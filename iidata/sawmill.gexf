@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-04-14">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="HP-1" label="HP-1" />
+      <node id="HP-2" label="HP-2" />
+      <node id="HP-4" label="HP-4" />
+      <node id="HP-9" label="HP-9" />
+      <node id="HP-3" label="HP-3" />
+      <node id="HP-5" label="HP-5" />
+      <node id="HP-7" label="HP-7" />
+      <node id="HM-1 (Juan)" label="HM-1 (Juan)" />
+      <node id="HP-6" label="HP-6" />
+      <node id="HP-8" label="HP-8" />
+      <node id="HP-11" label="HP-11" />
+      <node id="EP-3" label="EP-3" />
+      <node id="HP-10" label="HP-10" />
+      <node id="HM-2" label="HM-2" />
+      <node id="HM-4" label="HM-4" />
+      <node id="HM-5" label="HM-5" />
+      <node id="HM-6" label="HM-6" />
+      <node id="HM-7" label="HM-7" />
+      <node id="HM-9" label="HM-9" />
+      <node id="HM-11" label="HM-11" />
+      <node id="Mill Manager" label="Mill Manager" />
+      <node id="Owner" label="Owner" />
+      <node id="EM-1" label="EM-1" />
+      <node id="HM-3" label="HM-3" />
+      <node id="HM-8" label="HM-8" />
+      <node id="HM-10" label="HM-10" />
+      <node id="EM-2" label="EM-2" />
+      <node id="EM-5" label="EM-5" />
+      <node id="Y-1" label="Y-1" />
+      <node id="EM-3" label="EM-3" />
+      <node id="EM-4" label="EM-4" />
+      <node id="Y-2" label="Y-2" />
+      <node id="Forester" label="Forester" />
+      <node id="Kiln operator" label="Kiln operator" />
+      <node id="EP-2" label="EP-2" />
+      <node id="EP-1" label="EP-1" />
+    </nodes>
+    <edges>
+      <edge source="HP-1" target="HP-2" id="0" />
+      <edge source="HP-2" target="HP-4" id="1" />
+      <edge source="HP-2" target="HP-9" id="2" />
+      <edge source="HP-4" target="HP-3" id="3" />
+      <edge source="HP-4" target="HP-5" id="4" />
+      <edge source="HP-4" target="HP-7" id="5" />
+      <edge source="HP-9" target="HP-8" id="6" />
+      <edge source="HP-9" target="HP-10" id="7" />
+      <edge source="HP-5" target="HM-1 (Juan)" id="8" />
+      <edge source="HP-5" target="HP-6" id="9" />
+      <edge source="HP-5" target="HP-8" id="10" />
+      <edge source="HP-5" target="HP-11" id="11" />
+      <edge source="HP-7" target="HP-6" id="12" />
+      <edge source="HP-7" target="HM-1 (Juan)" id="13" />
+      <edge source="HP-7" target="HP-8" id="14" />
+      <edge source="HP-7" target="EP-3" id="15" />
+      <edge source="HM-1 (Juan)" target="HP-6" id="16" />
+      <edge source="HM-1 (Juan)" target="HM-2" id="17" />
+      <edge source="HM-1 (Juan)" target="HM-4" id="18" />
+      <edge source="HM-1 (Juan)" target="HM-5" id="19" />
+      <edge source="HM-1 (Juan)" target="HM-6" id="20" />
+      <edge source="HM-1 (Juan)" target="HM-7" id="21" />
+      <edge source="HM-1 (Juan)" target="HM-9" id="22" />
+      <edge source="HM-1 (Juan)" target="HM-11" id="23" />
+      <edge source="HM-1 (Juan)" target="Mill Manager" id="24" />
+      <edge source="HM-1 (Juan)" target="Owner" id="25" />
+      <edge source="HM-1 (Juan)" target="EM-1" id="26" />
+      <edge source="HP-8" target="EP-3" id="27" />
+      <edge source="HP-11" target="HP-10" id="28" />
+      <edge source="EP-3" target="Kiln operator" id="29" />
+      <edge source="EP-3" target="EP-1" id="30" />
+      <edge source="EP-3" target="EP-2" id="31" />
+      <edge source="HM-2" target="HM-3" id="32" />
+      <edge source="HM-2" target="HM-5" id="33" />
+      <edge source="HM-2" target="HM-9" id="34" />
+      <edge source="HM-4" target="HM-7" id="35" />
+      <edge source="HM-5" target="HM-3" id="36" />
+      <edge source="HM-5" target="HM-6" id="37" />
+      <edge source="HM-6" target="HM-9" id="38" />
+      <edge source="HM-7" target="HM-8" id="39" />
+      <edge source="HM-9" target="HM-8" id="40" />
+      <edge source="HM-9" target="HM-10" id="41" />
+      <edge source="HM-9" target="HM-11" id="42" />
+      <edge source="Mill Manager" target="EM-1" id="43" />
+      <edge source="Mill Manager" target="Y-1" id="44" />
+      <edge source="Mill Manager" target="Forester" id="45" />
+      <edge source="Mill Manager" target="Owner" id="46" />
+      <edge source="Mill Manager" target="Kiln operator" id="47" />
+      <edge source="Mill Manager" target="EP-2" id="48" />
+      <edge source="Owner" target="Forester" id="49" />
+      <edge source="Owner" target="Kiln operator" id="50" />
+      <edge source="EM-1" target="EM-2" id="51" />
+      <edge source="EM-1" target="EM-5" id="52" />
+      <edge source="EM-1" target="Y-1" id="53" />
+      <edge source="HM-3" target="HM-8" id="54" />
+      <edge source="HM-3" target="EM-5" id="55" />
+      <edge source="EM-2" target="EM-3" id="56" />
+      <edge source="EM-2" target="EM-5" id="57" />
+      <edge source="EM-5" target="EM-3" id="58" />
+      <edge source="Y-1" target="Y-2" id="59" />
+      <edge source="EM-3" target="EM-4" id="60" />
+      <edge source="EP-2" target="EP-1" id="61" />
+    </edges>
+  </graph>
+</gexf>

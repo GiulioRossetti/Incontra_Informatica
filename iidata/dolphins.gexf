@@ -1,0 +1,233 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-04-14">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Beak" label="Beak" />
+      <node id="Beescratch" label="Beescratch" />
+      <node id="Bumper" label="Bumper" />
+      <node id="CCL" label="CCL" />
+      <node id="Cross" label="Cross" />
+      <node id="DN16" label="DN16" />
+      <node id="DN21" label="DN21" />
+      <node id="DN63" label="DN63" />
+      <node id="Double" label="Double" />
+      <node id="Feather" label="Feather" />
+      <node id="Fish" label="Fish" />
+      <node id="Five" label="Five" />
+      <node id="Fork" label="Fork" />
+      <node id="Gallatin" label="Gallatin" />
+      <node id="Grin" label="Grin" />
+      <node id="Haecksel" label="Haecksel" />
+      <node id="Hook" label="Hook" />
+      <node id="Jet" label="Jet" />
+      <node id="Jonah" label="Jonah" />
+      <node id="Knit" label="Knit" />
+      <node id="Kringel" label="Kringel" />
+      <node id="MN105" label="MN105" />
+      <node id="MN23" label="MN23" />
+      <node id="MN60" label="MN60" />
+      <node id="MN83" label="MN83" />
+      <node id="Mus" label="Mus" />
+      <node id="Notch" label="Notch" />
+      <node id="Number1" label="Number1" />
+      <node id="Oscar" label="Oscar" />
+      <node id="Patchback" label="Patchback" />
+      <node id="PL" label="PL" />
+      <node id="Quasi" label="Quasi" />
+      <node id="Ripplefluke" label="Ripplefluke" />
+      <node id="Scabs" label="Scabs" />
+      <node id="Shmuddel" label="Shmuddel" />
+      <node id="SMN5" label="SMN5" />
+      <node id="SN100" label="SN100" />
+      <node id="SN4" label="SN4" />
+      <node id="SN63" label="SN63" />
+      <node id="SN89" label="SN89" />
+      <node id="SN9" label="SN9" />
+      <node id="SN90" label="SN90" />
+      <node id="SN96" label="SN96" />
+      <node id="Stripes" label="Stripes" />
+      <node id="Thumper" label="Thumper" />
+      <node id="Topless" label="Topless" />
+      <node id="TR120" label="TR120" />
+      <node id="TR77" label="TR77" />
+      <node id="TR82" label="TR82" />
+      <node id="TR88" label="TR88" />
+      <node id="TR99" label="TR99" />
+      <node id="Trigger" label="Trigger" />
+      <node id="TSN103" label="TSN103" />
+      <node id="TSN83" label="TSN83" />
+      <node id="Upbang" label="Upbang" />
+      <node id="Vau" label="Vau" />
+      <node id="Wave" label="Wave" />
+      <node id="Web" label="Web" />
+      <node id="Whitetip" label="Whitetip" />
+      <node id="Zap" label="Zap" />
+      <node id="Zig" label="Zig" />
+      <node id="Zipfel" label="Zipfel" />
+    </nodes>
+    <edges>
+      <edge source="Beak" target="Fish" id="0" />
+      <edge source="Beak" target="Grin" id="1" />
+      <edge source="Beak" target="Haecksel" id="2" />
+      <edge source="Beak" target="SN9" id="3" />
+      <edge source="Beak" target="SN96" id="4" />
+      <edge source="Beak" target="TR77" id="5" />
+      <edge source="Beescratch" target="Jet" id="6" />
+      <edge source="Beescratch" target="Knit" id="7" />
+      <edge source="Beescratch" target="Notch" id="8" />
+      <edge source="Beescratch" target="Number1" id="9" />
+      <edge source="Beescratch" target="Oscar" id="10" />
+      <edge source="Beescratch" target="SN100" id="11" />
+      <edge source="Beescratch" target="SN90" id="12" />
+      <edge source="Beescratch" target="Upbang" id="13" />
+      <edge source="Bumper" target="Fish" id="14" />
+      <edge source="Bumper" target="SN96" id="15" />
+      <edge source="Bumper" target="Thumper" id="16" />
+      <edge source="Bumper" target="Zipfel" id="17" />
+      <edge source="CCL" target="Double" id="18" />
+      <edge source="CCL" target="Grin" id="19" />
+      <edge source="CCL" target="Zap" id="20" />
+      <edge source="Cross" target="Trigger" id="21" />
+      <edge source="DN16" target="Feather" id="22" />
+      <edge source="DN16" target="Gallatin" id="23" />
+      <edge source="DN16" target="Wave" id="24" />
+      <edge source="DN16" target="Web" id="25" />
+      <edge source="DN21" target="Feather" id="26" />
+      <edge source="DN21" target="Gallatin" id="27" />
+      <edge source="DN21" target="Jet" id="28" />
+      <edge source="DN21" target="Upbang" id="29" />
+      <edge source="DN21" target="Wave" id="30" />
+      <edge source="DN21" target="Web" id="31" />
+      <edge source="DN63" target="Knit" id="32" />
+      <edge source="DN63" target="Number1" id="33" />
+      <edge source="DN63" target="PL" id="34" />
+      <edge source="DN63" target="SN9" id="35" />
+      <edge source="DN63" target="Upbang" id="36" />
+      <edge source="Double" target="Kringel" id="37" />
+      <edge source="Double" target="Oscar" id="38" />
+      <edge source="Double" target="SN4" id="39" />
+      <edge source="Double" target="Topless" id="40" />
+      <edge source="Double" target="Zap" id="41" />
+      <edge source="Feather" target="Gallatin" id="42" />
+      <edge source="Feather" target="Jet" id="43" />
+      <edge source="Feather" target="Ripplefluke" id="44" />
+      <edge source="Feather" target="SN90" id="45" />
+      <edge source="Feather" target="Web" id="46" />
+      <edge source="Fish" target="Patchback" id="47" />
+      <edge source="Fish" target="SN96" id="48" />
+      <edge source="Fish" target="TR77" id="49" />
+      <edge source="Five" target="Trigger" id="50" />
+      <edge source="Fork" target="Scabs" id="51" />
+      <edge source="Gallatin" target="Jet" id="52" />
+      <edge source="Gallatin" target="Ripplefluke" id="53" />
+      <edge source="Gallatin" target="SN90" id="54" />
+      <edge source="Gallatin" target="Upbang" id="55" />
+      <edge source="Gallatin" target="Web" id="56" />
+      <edge source="Grin" target="Hook" id="57" />
+      <edge source="Grin" target="MN83" id="58" />
+      <edge source="Grin" target="Scabs" id="59" />
+      <edge source="Grin" target="Shmuddel" id="60" />
+      <edge source="Grin" target="SN4" id="61" />
+      <edge source="Grin" target="SN63" id="62" />
+      <edge source="Grin" target="SN9" id="63" />
+      <edge source="Grin" target="Stripes" id="64" />
+      <edge source="Grin" target="TR99" id="65" />
+      <edge source="Grin" target="TSN103" id="66" />
+      <edge source="Haecksel" target="Jonah" id="67" />
+      <edge source="Haecksel" target="MN83" id="68" />
+      <edge source="Haecksel" target="SN9" id="69" />
+      <edge source="Haecksel" target="Topless" id="70" />
+      <edge source="Haecksel" target="Vau" id="71" />
+      <edge source="Haecksel" target="Zap" id="72" />
+      <edge source="Hook" target="Kringel" id="73" />
+      <edge source="Hook" target="Scabs" id="74" />
+      <edge source="Hook" target="SN4" id="75" />
+      <edge source="Hook" target="SN63" id="76" />
+      <edge source="Hook" target="TR99" id="77" />
+      <edge source="Jet" target="MN23" id="78" />
+      <edge source="Jet" target="Mus" id="79" />
+      <edge source="Jet" target="Number1" id="80" />
+      <edge source="Jet" target="Quasi" id="81" />
+      <edge source="Jet" target="Web" id="82" />
+      <edge source="Jonah" target="Kringel" id="83" />
+      <edge source="Jonah" target="MN105" id="84" />
+      <edge source="Jonah" target="MN83" id="85" />
+      <edge source="Jonah" target="Patchback" id="86" />
+      <edge source="Jonah" target="Topless" id="87" />
+      <edge source="Jonah" target="Trigger" id="88" />
+      <edge source="Knit" target="PL" id="89" />
+      <edge source="Knit" target="Upbang" id="90" />
+      <edge source="Kringel" target="Oscar" id="91" />
+      <edge source="Kringel" target="SN100" id="92" />
+      <edge source="Kringel" target="SN63" id="93" />
+      <edge source="Kringel" target="Thumper" id="94" />
+      <edge source="Kringel" target="TR77" id="95" />
+      <edge source="Kringel" target="TR99" id="96" />
+      <edge source="MN105" target="Patchback" id="97" />
+      <edge source="MN105" target="Scabs" id="98" />
+      <edge source="MN105" target="SN4" id="99" />
+      <edge source="MN105" target="Topless" id="100" />
+      <edge source="MN105" target="Trigger" id="101" />
+      <edge source="MN60" target="SN100" id="102" />
+      <edge source="MN60" target="Topless" id="103" />
+      <edge source="MN60" target="Trigger" id="104" />
+      <edge source="MN83" target="Patchback" id="105" />
+      <edge source="MN83" target="Topless" id="106" />
+      <edge source="MN83" target="Trigger" id="107" />
+      <edge source="Mus" target="Notch" id="108" />
+      <edge source="Mus" target="Number1" id="109" />
+      <edge source="Notch" target="Number1" id="110" />
+      <edge source="Oscar" target="PL" id="111" />
+      <edge source="Oscar" target="TR77" id="112" />
+      <edge source="Patchback" target="SMN5" id="113" />
+      <edge source="Patchback" target="Stripes" id="114" />
+      <edge source="Patchback" target="Topless" id="115" />
+      <edge source="Patchback" target="Trigger" id="116" />
+      <edge source="Patchback" target="TSN103" id="117" />
+      <edge source="PL" target="SN96" id="118" />
+      <edge source="PL" target="TR77" id="119" />
+      <edge source="Ripplefluke" target="Zig" id="120" />
+      <edge source="Scabs" target="Shmuddel" id="121" />
+      <edge source="Scabs" target="SN4" id="122" />
+      <edge source="Scabs" target="SN63" id="123" />
+      <edge source="Scabs" target="SN9" id="124" />
+      <edge source="Scabs" target="Stripes" id="125" />
+      <edge source="Scabs" target="TR99" id="126" />
+      <edge source="Shmuddel" target="SN4" id="127" />
+      <edge source="Shmuddel" target="Thumper" id="128" />
+      <edge source="Shmuddel" target="TR88" id="129" />
+      <edge source="SN100" target="SN4" id="130" />
+      <edge source="SN100" target="SN89" id="131" />
+      <edge source="SN100" target="SN9" id="132" />
+      <edge source="SN100" target="Zap" id="133" />
+      <edge source="SN4" target="SN9" id="134" />
+      <edge source="SN4" target="Stripes" id="135" />
+      <edge source="SN4" target="Topless" id="136" />
+      <edge source="SN4" target="Zipfel" id="137" />
+      <edge source="SN63" target="Stripes" id="138" />
+      <edge source="SN63" target="Thumper" id="139" />
+      <edge source="SN63" target="TSN103" id="140" />
+      <edge source="SN63" target="Whitetip" id="141" />
+      <edge source="SN89" target="Web" id="142" />
+      <edge source="SN9" target="TSN103" id="143" />
+      <edge source="SN90" target="Upbang" id="144" />
+      <edge source="SN90" target="Web" id="145" />
+      <edge source="SN96" target="TR77" id="146" />
+      <edge source="SN96" target="TR99" id="147" />
+      <edge source="Stripes" target="TR120" id="148" />
+      <edge source="Stripes" target="TSN83" id="149" />
+      <edge source="Topless" target="TR99" id="150" />
+      <edge source="Topless" target="Trigger" id="151" />
+      <edge source="Topless" target="Zap" id="152" />
+      <edge source="TR120" target="TR88" id="153" />
+      <edge source="TR82" target="Web" id="154" />
+      <edge source="TR99" target="Trigger" id="155" />
+      <edge source="Trigger" target="Vau" id="156" />
+      <edge source="TSN83" target="Zipfel" id="157" />
+      <edge source="Upbang" target="Web" id="158" />
+    </edges>
+  </graph>
+</gexf>

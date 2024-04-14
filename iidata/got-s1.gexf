@@ -1,0 +1,687 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-04-14">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="NED" label="NED" />
+      <node id="ROBERT" label="ROBERT" />
+      <node id="DAENERYS" label="DAENERYS" />
+      <node id="JORAH" label="JORAH" />
+      <node id="JON" label="JON" />
+      <node id="SAM" label="SAM" />
+      <node id="LITTLEFINGER" label="LITTLEFINGER" />
+      <node id="VARYS" label="VARYS" />
+      <node id="DROGO" label="DROGO" />
+      <node id="ARYA" label="ARYA" />
+      <node id="CATELYN" label="CATELYN" />
+      <node id="ROBB" label="ROBB" />
+      <node id="BRONN" label="BRONN" />
+      <node id="TYRION" label="TYRION" />
+      <node id="CERSEI" label="CERSEI" />
+      <node id="SHAE" label="SHAE" />
+      <node id="JOFFREY" label="JOFFREY" />
+      <node id="SANSA" label="SANSA" />
+      <node id="PYCELLE" label="PYCELLE" />
+      <node id="VISERYS" label="VISERYS" />
+      <node id="SEPTA_MORDANE" label="SEPTA_MORDANE" />
+      <node id="TYWIN" label="TYWIN" />
+      <node id="JEOR" label="JEOR" />
+      <node id="THEON" label="THEON" />
+      <node id="BRAN" label="BRAN" />
+      <node id="MAESTER_LUWIN" label="MAESTER_LUWIN" />
+      <node id="JAIME" label="JAIME" />
+      <node id="LORAS" label="LORAS" />
+      <node id="RENLY" label="RENLY" />
+      <node id="MIRRI_MAZ_DUUR" label="MIRRI_MAZ_DUUR" />
+      <node id="SYRIO_FOREL" label="SYRIO_FOREL" />
+      <node id="JORY_CASSEL" label="JORY_CASSEL" />
+      <node id="PYP" label="PYP" />
+      <node id="ROS" label="ROS" />
+      <node id="GRENN" label="GRENN" />
+      <node id="WALDER" label="WALDER" />
+      <node id="DOREAH" label="DOREAH" />
+      <node id="BENJEN" label="BENJEN" />
+      <node id="IRRI" label="IRRI" />
+      <node id="GREATJON_UMBER" label="GREATJON_UMBER" />
+      <node id="MORD" label="MORD" />
+      <node id="LYSA" label="LYSA" />
+      <node id="RAKHARO" label="RAKHARO" />
+      <node id="ROBIN" label="ROBIN" />
+      <node id="OSHA" label="OSHA" />
+      <node id="RODRIK" label="RODRIK" />
+      <node id="QOTHO" label="QOTHO" />
+      <node id="MAESTER_AEMON" label="MAESTER_AEMON" />
+      <node id="BARRISTAN" label="BARRISTAN" />
+      <node id="ILLYRIO" label="ILLYRIO" />
+      <node id="SHAGGA" label="SHAGGA" />
+      <node id="YOREN" label="YOREN" />
+      <node id="ALLISER_THORNE" label="ALLISER_THORNE" />
+      <node id="WINE_MERCHANT" label="WINE_MERCHANT" />
+      <node id="HOUND" label="HOUND" />
+      <node id="LANCEL" label="LANCEL" />
+      <node id="RICKON" label="RICKON" />
+      <node id="MARILLION" label="MARILLION" />
+      <node id="KEVAN" label="KEVAN" />
+      <node id="VARDIS_EGEN" label="VARDIS_EGEN" />
+      <node id="RHAEGO" label="RHAEGO" />
+      <node id="JANOS" label="JANOS" />
+      <node id="GENDRY" label="GENDRY" />
+      <node id="HOT_PIE" label="HOT_PIE" />
+      <node id="LOMMY_GREENHANDS" label="LOMMY_GREENHANDS" />
+      <node id="MERYN_TRANT" label="MERYN_TRANT" />
+      <node id="JON_ARRYN" label="JON_ARRYN" />
+      <node id="HODOR" label="HODOR" />
+      <node id="STANNIS" label="STANNIS" />
+      <node id="MAGO" label="MAGO" />
+      <node id="MYCAH" label="MYCAH" />
+      <node id="TOBHO_MOTT" label="TOBHO_MOTT" />
+      <node id="RAST" label="RAST" />
+      <node id="OLD_NAN" label="OLD_NAN" />
+      <node id="MHAEGEN" label="MHAEGEN" />
+      <node id="AERYS" label="AERYS" />
+      <node id="BAELOR" label="BAELOR" />
+      <node id="DAREON" label="DAREON" />
+      <node id="STABLE_BOY" label="STABLE_BOY" />
+      <node id="HUGH_OF_THE_VALE" label="HUGH_OF_THE_VALE" />
+      <node id="OTHELL_YARWYCK" label="OTHELL_YARWYCK" />
+      <node id="OTHOR" label="OTHOR" />
+      <node id="MOUNTAIN" label="MOUNTAIN" />
+      <node id="TOMARD" label="TOMARD" />
+      <node id="GARED" label="GARED" />
+      <node id="ROYCE" label="ROYCE" />
+      <node id="JONOS_BRACKEN" label="JONOS_BRACKEN" />
+      <node id="MASHA_HEDDLE" label="MASHA_HEDDLE" />
+      <node id="RICKARD_STARK" label="RICKARD_STARK" />
+      <node id="ILYN_PAYNE" label="ILYN_PAYNE" />
+      <node id="WILL" label="WILL" />
+      <node id="LYANNA" label="LYANNA" />
+      <node id="RYGER_RIVERS" label="RYGER_RIVERS" />
+      <node id="STEVRON_FREY" label="STEVRON_FREY" />
+      <node id="WAYMAR_ROYCE" label="WAYMAR_ROYCE" />
+      <node id="ADDAM_MARBRAND" label="ADDAM_MARBRAND" />
+      <node id="LEO_LEFFORD" label="LEO_LEFFORD" />
+      <node id="RHAEGAR" label="RHAEGAR" />
+      <node id="ASSASSIN" label="ASSASSIN" />
+      <node id="BALON" label="BALON" />
+      <node id="BERIC" label="BERIC" />
+      <node id="BRANDON_STARK" label="BRANDON_STARK" />
+      <node id="HOSTER" label="HOSTER" />
+      <node id="COHOLLO" label="COHOLLO" />
+      <node id="JHIQUI" label="JHIQUI" />
+      <node id="MYRCELLA" label="MYRCELLA" />
+      <node id="AEGON" label="AEGON" />
+      <node id="BORCAS" label="BORCAS" />
+      <node id="BOWEN_MARSH" label="BOWEN_MARSH" />
+      <node id="LUKE" label="LUKE" />
+      <node id="IROGENIA" label="IROGENIA" />
+      <node id="GALBART_GLOVER" label="GALBART_GLOVER" />
+      <node id="RICKARD_KARSTARK" label="RICKARD_KARSTARK" />
+      <node id="HIGH_SEPTON" label="HIGH_SEPTON" />
+      <node id="TYSHA" label="TYSHA" />
+      <node id="JAREMY_RYKKER" label="JAREMY_RYKKER" />
+      <node id="JOANNA" label="JOANNA" />
+      <node id="TOMMEN" label="TOMMEN" />
+      <node id="LITTLE_BIRD" label="LITTLE_BIRD" />
+      <node id="JOYEUSE" label="JOYEUSE" />
+      <node id="MACE" label="MACE" />
+      <node id="MELESSA" label="MELESSA" />
+      <node id="ROOSE_BOLTON" label="ROOSE_BOLTON" />
+      <node id="STEFFON" label="STEFFON" />
+      <node id="VARLY" label="VARLY" />
+      <node id="RANDYLL" label="RANDYLL" />
+    </nodes>
+    <edges>
+      <edge source="NED" target="ROBERT" id="0" weight="192" />
+      <edge source="NED" target="LITTLEFINGER" id="1" weight="107" />
+      <edge source="NED" target="VARYS" id="2" weight="96" />
+      <edge source="NED" target="ARYA" id="3" weight="90" />
+      <edge source="NED" target="CERSEI" id="4" weight="86" />
+      <edge source="NED" target="CATELYN" id="5" weight="69" />
+      <edge source="NED" target="PYCELLE" id="6" weight="68" />
+      <edge source="NED" target="JAIME" id="7" weight="53" />
+      <edge source="NED" target="SANSA" id="8" weight="49" />
+      <edge source="NED" target="JORY_CASSEL" id="9" weight="44" />
+      <edge source="NED" target="JOFFREY" id="10" weight="39" />
+      <edge source="NED" target="RENLY" id="11" weight="30" />
+      <edge source="NED" target="BRAN" id="12" weight="29" />
+      <edge source="NED" target="JON" id="13" weight="29" />
+      <edge source="NED" target="BARRISTAN" id="14" weight="25" />
+      <edge source="NED" target="ROBB" id="15" weight="23" />
+      <edge source="NED" target="YOREN" id="16" weight="15" />
+      <edge source="NED" target="BENJEN" id="17" weight="14" />
+      <edge source="NED" target="JANOS" id="18" weight="13" />
+      <edge source="NED" target="THEON" id="19" weight="13" />
+      <edge source="NED" target="GENDRY" id="20" weight="12" />
+      <edge source="NED" target="JON_ARRYN" id="21" weight="12" />
+      <edge source="NED" target="TYRION" id="22" weight="11" />
+      <edge source="NED" target="TYWIN" id="23" weight="11" />
+      <edge source="NED" target="HOUND" id="24" weight="10" />
+      <edge source="NED" target="RODRIK" id="25" weight="10" />
+      <edge source="NED" target="STANNIS" id="26" weight="10" />
+      <edge source="NED" target="TOBHO_MOTT" id="27" weight="10" />
+      <edge source="NED" target="MHAEGEN" id="28" weight="9" />
+      <edge source="NED" target="SEPTA_MORDANE" id="29" weight="9" />
+      <edge source="NED" target="AERYS" id="30" weight="8" />
+      <edge source="NED" target="BAELOR" id="31" weight="8" />
+      <edge source="NED" target="HUGH_OF_THE_VALE" id="32" weight="6" />
+      <edge source="NED" target="SYRIO_FOREL" id="33" weight="6" />
+      <edge source="NED" target="TOMARD" id="34" weight="6" />
+      <edge source="NED" target="MAESTER_LUWIN" id="35" weight="5" />
+      <edge source="NED" target="MOUNTAIN" id="36" weight="5" />
+      <edge source="NED" target="ILYN_PAYNE" id="37" weight="4" />
+      <edge source="NED" target="LANCEL" id="38" weight="4" />
+      <edge source="NED" target="LORAS" id="39" weight="4" />
+      <edge source="NED" target="LYANNA" id="40" weight="4" />
+      <edge source="NED" target="RICKARD_STARK" id="41" weight="4" />
+      <edge source="NED" target="BERIC" id="42" weight="3" />
+      <edge source="NED" target="BRANDON_STARK" id="43" weight="3" />
+      <edge source="NED" target="DAENERYS" id="44" weight="3" />
+      <edge source="NED" target="JEOR" id="45" weight="3" />
+      <edge source="NED" target="MERYN_TRANT" id="46" weight="3" />
+      <edge source="NED" target="MYCAH" id="47" weight="3" />
+      <edge source="NED" target="PYP" id="48" weight="3" />
+      <edge source="NED" target="WILL" id="49" weight="3" />
+      <edge source="NED" target="GREATJON_UMBER" id="50" weight="2" />
+      <edge source="NED" target="HIGH_SEPTON" id="51" weight="2" />
+      <edge source="NED" target="JORAH" id="52" weight="2" />
+      <edge source="NED" target="ROOSE_BOLTON" id="53" weight="2" />
+      <edge source="NED" target="ROS" id="54" weight="2" />
+      <edge source="NED" target="STEFFON" id="55" weight="2" />
+      <edge source="NED" target="VARLY" id="56" weight="2" />
+      <edge source="ROBERT" target="CERSEI" id="57" weight="80" />
+      <edge source="ROBERT" target="RENLY" id="58" weight="30" />
+      <edge source="ROBERT" target="JOFFREY" id="59" weight="28" />
+      <edge source="ROBERT" target="BARRISTAN" id="60" weight="22" />
+      <edge source="ROBERT" target="JAIME" id="61" weight="20" />
+      <edge source="ROBERT" target="SANSA" id="62" weight="17" />
+      <edge source="ROBERT" target="CATELYN" id="63" weight="15" />
+      <edge source="ROBERT" target="LANCEL" id="64" weight="15" />
+      <edge source="ROBERT" target="LITTLEFINGER" id="65" weight="14" />
+      <edge source="ROBERT" target="PYCELLE" id="66" weight="11" />
+      <edge source="ROBERT" target="VARYS" id="67" weight="11" />
+      <edge source="ROBERT" target="ARYA" id="68" weight="10" />
+      <edge source="ROBERT" target="TYWIN" id="69" weight="8" />
+      <edge source="ROBERT" target="AERYS" id="70" weight="7" />
+      <edge source="ROBERT" target="BRAN" id="71" weight="7" />
+      <edge source="ROBERT" target="JON_ARRYN" id="72" weight="7" />
+      <edge source="ROBERT" target="TYRION" id="73" weight="7" />
+      <edge source="ROBERT" target="VISERYS" id="74" weight="7" />
+      <edge source="ROBERT" target="HOUND" id="75" weight="6" />
+      <edge source="ROBERT" target="DAENERYS" id="76" weight="5" />
+      <edge source="ROBERT" target="ROBB" id="77" weight="5" />
+      <edge source="ROBERT" target="STANNIS" id="78" weight="5" />
+      <edge source="ROBERT" target="JORY_CASSEL" id="79" weight="4" />
+      <edge source="ROBERT" target="MOUNTAIN" id="80" weight="4" />
+      <edge source="ROBERT" target="JEOR" id="81" weight="3" />
+      <edge source="ROBERT" target="JON" id="82" weight="3" />
+      <edge source="ROBERT" target="LORAS" id="83" weight="3" />
+      <edge source="ROBERT" target="LYANNA" id="84" weight="3" />
+      <edge source="ROBERT" target="BENJEN" id="85" weight="2" />
+      <edge source="ROBERT" target="BERIC" id="86" weight="2" />
+      <edge source="ROBERT" target="DROGO" id="87" weight="2" />
+      <edge source="ROBERT" target="MAESTER_LUWIN" id="88" weight="2" />
+      <edge source="ROBERT" target="RHAEGAR" id="89" weight="2" />
+      <edge source="ROBERT" target="ROS" id="90" weight="2" />
+      <edge source="ROBERT" target="TOMMEN" id="91" weight="2" />
+      <edge source="DAENERYS" target="JORAH" id="92" weight="154" />
+      <edge source="DAENERYS" target="DROGO" id="93" weight="91" />
+      <edge source="DAENERYS" target="VISERYS" id="94" weight="66" />
+      <edge source="DAENERYS" target="MIRRI_MAZ_DUUR" id="95" weight="45" />
+      <edge source="DAENERYS" target="DOREAH" id="96" weight="34" />
+      <edge source="DAENERYS" target="IRRI" id="97" weight="32" />
+      <edge source="DAENERYS" target="QOTHO" id="98" weight="28" />
+      <edge source="DAENERYS" target="WINE_MERCHANT" id="99" weight="19" />
+      <edge source="DAENERYS" target="RAKHARO" id="100" weight="17" />
+      <edge source="DAENERYS" target="RHAEGO" id="101" weight="13" />
+      <edge source="DAENERYS" target="ILLYRIO" id="102" weight="10" />
+      <edge source="DAENERYS" target="MAGO" id="103" weight="8" />
+      <edge source="DAENERYS" target="VARYS" id="104" weight="4" />
+      <edge source="DAENERYS" target="CATELYN" id="105" weight="2" />
+      <edge source="DAENERYS" target="JHIQUI" id="106" weight="2" />
+      <edge source="DAENERYS" target="SANSA" id="107" weight="2" />
+      <edge source="JORAH" target="VISERYS" id="108" weight="43" />
+      <edge source="JORAH" target="RAKHARO" id="109" weight="30" />
+      <edge source="JORAH" target="DROGO" id="110" weight="20" />
+      <edge source="JORAH" target="WINE_MERCHANT" id="111" weight="10" />
+      <edge source="JORAH" target="IRRI" id="112" weight="9" />
+      <edge source="JORAH" target="MIRRI_MAZ_DUUR" id="113" weight="8" />
+      <edge source="JORAH" target="QOTHO" id="114" weight="5" />
+      <edge source="JORAH" target="RHAEGO" id="115" weight="3" />
+      <edge source="JORAH" target="AERYS" id="116" weight="2" />
+      <edge source="JORAH" target="DOREAH" id="117" weight="2" />
+      <edge source="JORAH" target="ILLYRIO" id="118" weight="2" />
+      <edge source="JORAH" target="LITTLE_BIRD" id="119" weight="2" />
+      <edge source="JORAH" target="VARYS" id="120" weight="2" />
+      <edge source="JON" target="SAM" id="121" weight="121" />
+      <edge source="JON" target="JEOR" id="122" weight="60" />
+      <edge source="JON" target="TYRION" id="123" weight="45" />
+      <edge source="JON" target="PYP" id="124" weight="42" />
+      <edge source="JON" target="BENJEN" id="125" weight="33" />
+      <edge source="JON" target="MAESTER_AEMON" id="126" weight="28" />
+      <edge source="JON" target="ROBB" id="127" weight="25" />
+      <edge source="JON" target="GRENN" id="128" weight="24" />
+      <edge source="JON" target="ALLISER_THORNE" id="129" weight="20" />
+      <edge source="JON" target="ARYA" id="130" weight="20" />
+      <edge source="JON" target="BRAN" id="131" weight="19" />
+      <edge source="JON" target="CATELYN" id="132" weight="14" />
+      <edge source="JON" target="JAIME" id="133" weight="10" />
+      <edge source="JON" target="RAST" id="134" weight="7" />
+      <edge source="JON" target="THEON" id="135" weight="7" />
+      <edge source="JON" target="OTHELL_YARWYCK" id="136" weight="5" />
+      <edge source="JON" target="OTHOR" id="137" weight="5" />
+      <edge source="JON" target="DAREON" id="138" weight="4" />
+      <edge source="JON" target="CERSEI" id="139" weight="3" />
+      <edge source="JON" target="WILL" id="140" weight="3" />
+      <edge source="JON" target="BRANDON_STARK" id="141" weight="2" />
+      <edge source="JON" target="JOFFREY" id="142" weight="2" />
+      <edge source="JON" target="RODRIK" id="143" weight="2" />
+      <edge source="JON" target="ROS" id="144" weight="2" />
+      <edge source="SAM" target="PYP" id="145" weight="30" />
+      <edge source="SAM" target="ALLISER_THORNE" id="146" weight="18" />
+      <edge source="SAM" target="JEOR" id="147" weight="17" />
+      <edge source="SAM" target="GRENN" id="148" weight="16" />
+      <edge source="SAM" target="MAESTER_AEMON" id="149" weight="6" />
+      <edge source="SAM" target="OTHELL_YARWYCK" id="150" weight="6" />
+      <edge source="SAM" target="RAST" id="151" weight="6" />
+      <edge source="SAM" target="DAREON" id="152" weight="4" />
+      <edge source="SAM" target="MELESSA" id="153" weight="2" />
+      <edge source="SAM" target="OTHOR" id="154" weight="2" />
+      <edge source="SAM" target="RANDYLL" id="155" weight="2" />
+      <edge source="LITTLEFINGER" target="VARYS" id="156" weight="73" />
+      <edge source="LITTLEFINGER" target="CATELYN" id="157" weight="26" />
+      <edge source="LITTLEFINGER" target="SANSA" id="158" weight="22" />
+      <edge source="LITTLEFINGER" target="PYCELLE" id="159" weight="19" />
+      <edge source="LITTLEFINGER" target="ROS" id="160" weight="19" />
+      <edge source="LITTLEFINGER" target="RENLY" id="161" weight="17" />
+      <edge source="LITTLEFINGER" target="JOFFREY" id="162" weight="12" />
+      <edge source="LITTLEFINGER" target="CERSEI" id="163" weight="8" />
+      <edge source="LITTLEFINGER" target="JORY_CASSEL" id="164" weight="7" />
+      <edge source="LITTLEFINGER" target="MOUNTAIN" id="165" weight="6" />
+      <edge source="LITTLEFINGER" target="TYRION" id="166" weight="6" />
+      <edge source="LITTLEFINGER" target="ARYA" id="167" weight="5" />
+      <edge source="LITTLEFINGER" target="HOUND" id="168" weight="5" />
+      <edge source="LITTLEFINGER" target="JAIME" id="169" weight="5" />
+      <edge source="LITTLEFINGER" target="JON_ARRYN" id="170" weight="5" />
+      <edge source="LITTLEFINGER" target="BARRISTAN" id="171" weight="4" />
+      <edge source="LITTLEFINGER" target="HUGH_OF_THE_VALE" id="172" weight="4" />
+      <edge source="LITTLEFINGER" target="SEPTA_MORDANE" id="173" weight="4" />
+      <edge source="LITTLEFINGER" target="TYWIN" id="174" weight="4" />
+      <edge source="LITTLEFINGER" target="STANNIS" id="175" weight="3" />
+      <edge source="LITTLEFINGER" target="JANOS" id="176" weight="2" />
+      <edge source="LITTLEFINGER" target="LORAS" id="177" weight="2" />
+      <edge source="LITTLEFINGER" target="MHAEGEN" id="178" weight="2" />
+      <edge source="LITTLEFINGER" target="YOREN" id="179" weight="2" />
+      <edge source="VARYS" target="JOFFREY" id="180" weight="15" />
+      <edge source="VARYS" target="PYCELLE" id="181" weight="15" />
+      <edge source="VARYS" target="CERSEI" id="182" weight="13" />
+      <edge source="VARYS" target="CATELYN" id="183" weight="11" />
+      <edge source="VARYS" target="ILLYRIO" id="184" weight="9" />
+      <edge source="VARYS" target="RENLY" id="185" weight="9" />
+      <edge source="VARYS" target="SANSA" id="186" weight="8" />
+      <edge source="VARYS" target="ARYA" id="187" weight="7" />
+      <edge source="VARYS" target="BARRISTAN" id="188" weight="6" />
+      <edge source="VARYS" target="JANOS" id="189" weight="5" />
+      <edge source="VARYS" target="YOREN" id="190" weight="3" />
+      <edge source="VARYS" target="GENDRY" id="191" weight="2" />
+      <edge source="VARYS" target="ILYN_PAYNE" id="192" weight="2" />
+      <edge source="VARYS" target="JON_ARRYN" id="193" weight="2" />
+      <edge source="VARYS" target="ROBB" id="194" weight="2" />
+      <edge source="VARYS" target="TYRION" id="195" weight="2" />
+      <edge source="DROGO" target="VISERYS" id="196" weight="27" />
+      <edge source="DROGO" target="MAGO" id="197" weight="10" />
+      <edge source="DROGO" target="MIRRI_MAZ_DUUR" id="198" weight="9" />
+      <edge source="DROGO" target="ILLYRIO" id="199" weight="6" />
+      <edge source="DROGO" target="QOTHO" id="200" weight="6" />
+      <edge source="DROGO" target="RHAEGO" id="201" weight="6" />
+      <edge source="DROGO" target="RAKHARO" id="202" weight="5" />
+      <edge source="DROGO" target="COHOLLO" id="203" weight="3" />
+      <edge source="DROGO" target="DOREAH" id="204" weight="3" />
+      <edge source="DROGO" target="IRRI" id="205" weight="2" />
+      <edge source="ARYA" target="SANSA" id="206" weight="53" />
+      <edge source="ARYA" target="SYRIO_FOREL" id="207" weight="44" />
+      <edge source="ARYA" target="JOFFREY" id="208" weight="24" />
+      <edge source="ARYA" target="YOREN" id="209" weight="18" />
+      <edge source="ARYA" target="SEPTA_MORDANE" id="210" weight="11" />
+      <edge source="ARYA" target="CERSEI" id="211" weight="9" />
+      <edge source="ARYA" target="CATELYN" id="212" weight="7" />
+      <edge source="ARYA" target="GENDRY" id="213" weight="7" />
+      <edge source="ARYA" target="HOUND" id="214" weight="7" />
+      <edge source="ARYA" target="JORY_CASSEL" id="215" weight="7" />
+      <edge source="ARYA" target="STABLE_BOY" id="216" weight="7" />
+      <edge source="ARYA" target="ROBB" id="217" weight="6" />
+      <edge source="ARYA" target="BAELOR" id="218" weight="5" />
+      <edge source="ARYA" target="BRAN" id="219" weight="5" />
+      <edge source="ARYA" target="HOT_PIE" id="220" weight="5" />
+      <edge source="ARYA" target="MERYN_TRANT" id="221" weight="5" />
+      <edge source="ARYA" target="MYCAH" id="222" weight="5" />
+      <edge source="ARYA" target="ILYN_PAYNE" id="223" weight="4" />
+      <edge source="ARYA" target="JAIME" id="224" weight="3" />
+      <edge source="ARYA" target="PYCELLE" id="225" weight="3" />
+      <edge source="ARYA" target="ILLYRIO" id="226" weight="2" />
+      <edge source="ARYA" target="LOMMY_GREENHANDS" id="227" weight="2" />
+      <edge source="ARYA" target="TYRION" id="228" weight="2" />
+      <edge source="CATELYN" target="ROBB" id="229" weight="90" />
+      <edge source="CATELYN" target="TYRION" id="230" weight="41" />
+      <edge source="CATELYN" target="WALDER" id="231" weight="34" />
+      <edge source="CATELYN" target="LYSA" id="232" weight="30" />
+      <edge source="CATELYN" target="BRAN" id="233" weight="28" />
+      <edge source="CATELYN" target="JAIME" id="234" weight="28" />
+      <edge source="CATELYN" target="RODRIK" id="235" weight="28" />
+      <edge source="CATELYN" target="MAESTER_LUWIN" id="236" weight="26" />
+      <edge source="CATELYN" target="CERSEI" id="237" weight="22" />
+      <edge source="CATELYN" target="THEON" id="238" weight="16" />
+      <edge source="CATELYN" target="SANSA" id="239" weight="14" />
+      <edge source="CATELYN" target="VARDIS_EGEN" id="240" weight="13" />
+      <edge source="CATELYN" target="GREATJON_UMBER" id="241" weight="11" />
+      <edge source="CATELYN" target="ROBIN" id="242" weight="10" />
+      <edge source="CATELYN" target="BRONN" id="243" weight="7" />
+      <edge source="CATELYN" target="MORD" id="244" weight="5" />
+      <edge source="CATELYN" target="JON_ARRYN" id="245" weight="4" />
+      <edge source="CATELYN" target="MARILLION" id="246" weight="4" />
+      <edge source="CATELYN" target="TYWIN" id="247" weight="4" />
+      <edge source="CATELYN" target="ASSASSIN" id="248" weight="3" />
+      <edge source="CATELYN" target="HOSTER" id="249" weight="3" />
+      <edge source="CATELYN" target="JOFFREY" id="250" weight="3" />
+      <edge source="CATELYN" target="MASHA_HEDDLE" id="251" weight="3" />
+      <edge source="CATELYN" target="YOREN" id="252" weight="3" />
+      <edge source="CATELYN" target="AERYS" id="253" weight="2" />
+      <edge source="CATELYN" target="BENJEN" id="254" weight="2" />
+      <edge source="CATELYN" target="BRANDON_STARK" id="255" weight="2" />
+      <edge source="CATELYN" target="HOUND" id="256" weight="2" />
+      <edge source="CATELYN" target="STEVRON_FREY" id="257" weight="2" />
+      <edge source="ROBB" target="THEON" id="258" weight="60" />
+      <edge source="ROBB" target="BRAN" id="259" weight="48" />
+      <edge source="ROBB" target="GREATJON_UMBER" id="260" weight="31" />
+      <edge source="ROBB" target="MAESTER_LUWIN" id="261" weight="17" />
+      <edge source="ROBB" target="TYRION" id="262" weight="16" />
+      <edge source="ROBB" target="JOFFREY" id="263" weight="12" />
+      <edge source="ROBB" target="RODRIK" id="264" weight="11" />
+      <edge source="ROBB" target="JAIME" id="265" weight="10" />
+      <edge source="ROBB" target="SANSA" id="266" weight="9" />
+      <edge source="ROBB" target="CERSEI" id="267" weight="8" />
+      <edge source="ROBB" target="OSHA" id="268" weight="8" />
+      <edge source="ROBB" target="BENJEN" id="269" weight="5" />
+      <edge source="ROBB" target="JONOS_BRACKEN" id="270" weight="5" />
+      <edge source="ROBB" target="TYWIN" id="271" weight="5" />
+      <edge source="ROBB" target="WALDER" id="272" weight="5" />
+      <edge source="ROBB" target="OLD_NAN" id="273" weight="4" />
+      <edge source="ROBB" target="HODOR" id="274" weight="3" />
+      <edge source="ROBB" target="RENLY" id="275" weight="3" />
+      <edge source="ROBB" target="RICKON" id="276" weight="3" />
+      <edge source="ROBB" target="ASSASSIN" id="277" weight="2" />
+      <edge source="ROBB" target="GALBART_GLOVER" id="278" weight="2" />
+      <edge source="ROBB" target="HOUND" id="279" weight="2" />
+      <edge source="ROBB" target="RICKARD_KARSTARK" id="280" weight="2" />
+      <edge source="ROBB" target="STANNIS" id="281" weight="2" />
+      <edge source="BRONN" target="TYRION" id="282" weight="86" />
+      <edge source="BRONN" target="SHAE" id="283" weight="11" />
+      <edge source="BRONN" target="RODRIK" id="284" weight="6" />
+      <edge source="BRONN" target="LYSA" id="285" weight="5" />
+      <edge source="BRONN" target="SHAGGA" id="286" weight="5" />
+      <edge source="BRONN" target="TYWIN" id="287" weight="5" />
+      <edge source="BRONN" target="VARDIS_EGEN" id="288" weight="4" />
+      <edge source="BRONN" target="MORD" id="289" weight="3" />
+      <edge source="BRONN" target="ROBIN" id="290" weight="3" />
+      <edge source="BRONN" target="KEVAN" id="291" weight="2" />
+      <edge source="BRONN" target="MARILLION" id="292" weight="2" />
+      <edge source="TYRION" target="SHAE" id="293" weight="73" />
+      <edge source="TYRION" target="TYWIN" id="294" weight="61" />
+      <edge source="TYRION" target="JAIME" id="295" weight="34" />
+      <edge source="TYRION" target="MORD" id="296" weight="31" />
+      <edge source="TYRION" target="LYSA" id="297" weight="30" />
+      <edge source="TYRION" target="SHAGGA" id="298" weight="22" />
+      <edge source="TYRION" target="YOREN" id="299" weight="22" />
+      <edge source="TYRION" target="THEON" id="300" weight="19" />
+      <edge source="TYRION" target="CERSEI" id="301" weight="18" />
+      <edge source="TYRION" target="BENJEN" id="302" weight="17" />
+      <edge source="TYRION" target="ROS" id="303" weight="17" />
+      <edge source="TYRION" target="BRAN" id="304" weight="15" />
+      <edge source="TYRION" target="JEOR" id="305" weight="15" />
+      <edge source="TYRION" target="JOFFREY" id="306" weight="15" />
+      <edge source="TYRION" target="KEVAN" id="307" weight="14" />
+      <edge source="TYRION" target="HOUND" id="308" weight="10" />
+      <edge source="TYRION" target="ROBIN" id="309" weight="9" />
+      <edge source="TYRION" target="RODRIK" id="310" weight="9" />
+      <edge source="TYRION" target="VARDIS_EGEN" id="311" weight="9" />
+      <edge source="TYRION" target="MAESTER_AEMON" id="312" weight="7" />
+      <edge source="TYRION" target="MAESTER_LUWIN" id="313" weight="7" />
+      <edge source="TYRION" target="GRENN" id="314" weight="6" />
+      <edge source="TYRION" target="PYP" id="315" weight="6" />
+      <edge source="TYRION" target="MARILLION" id="316" weight="5" />
+      <edge source="TYRION" target="MASHA_HEDDLE" id="317" weight="5" />
+      <edge source="TYRION" target="HODOR" id="318" weight="3" />
+      <edge source="TYRION" target="MYRCELLA" id="319" weight="3" />
+      <edge source="TYRION" target="RAST" id="320" weight="3" />
+      <edge source="TYRION" target="BALON" id="321" weight="2" />
+      <edge source="TYRION" target="JOANNA" id="322" weight="2" />
+      <edge source="TYRION" target="LEO_LEFFORD" id="323" weight="2" />
+      <edge source="TYRION" target="TYSHA" id="324" weight="2" />
+      <edge source="CERSEI" target="JOFFREY" id="325" weight="54" />
+      <edge source="CERSEI" target="JAIME" id="326" weight="46" />
+      <edge source="CERSEI" target="SANSA" id="327" weight="36" />
+      <edge source="CERSEI" target="BARRISTAN" id="328" weight="13" />
+      <edge source="CERSEI" target="PYCELLE" id="329" weight="9" />
+      <edge source="CERSEI" target="BRAN" id="330" weight="4" />
+      <edge source="CERSEI" target="HOUND" id="331" weight="4" />
+      <edge source="CERSEI" target="ILYN_PAYNE" id="332" weight="3" />
+      <edge source="CERSEI" target="JON_ARRYN" id="333" weight="3" />
+      <edge source="CERSEI" target="LANCEL" id="334" weight="3" />
+      <edge source="CERSEI" target="RENLY" id="335" weight="3" />
+      <edge source="CERSEI" target="TYWIN" id="336" weight="3" />
+      <edge source="CERSEI" target="BAELOR" id="337" weight="2" />
+      <edge source="CERSEI" target="BENJEN" id="338" weight="2" />
+      <edge source="CERSEI" target="JEOR" id="339" weight="2" />
+      <edge source="CERSEI" target="LYANNA" id="340" weight="2" />
+      <edge source="CERSEI" target="MERYN_TRANT" id="341" weight="2" />
+      <edge source="CERSEI" target="ROS" id="342" weight="2" />
+      <edge source="CERSEI" target="STANNIS" id="343" weight="2" />
+      <edge source="CERSEI" target="YOREN" id="344" weight="2" />
+      <edge source="SHAE" target="TYWIN" id="345" weight="4" />
+      <edge source="JOFFREY" target="SANSA" id="346" weight="69" />
+      <edge source="JOFFREY" target="HOUND" id="347" weight="16" />
+      <edge source="JOFFREY" target="MARILLION" id="348" weight="14" />
+      <edge source="JOFFREY" target="PYCELLE" id="349" weight="13" />
+      <edge source="JOFFREY" target="MERYN_TRANT" id="350" weight="12" />
+      <edge source="JOFFREY" target="MYCAH" id="351" weight="10" />
+      <edge source="JOFFREY" target="JAIME" id="352" weight="6" />
+      <edge source="JOFFREY" target="BARRISTAN" id="353" weight="5" />
+      <edge source="JOFFREY" target="SEPTA_MORDANE" id="354" weight="5" />
+      <edge source="JOFFREY" target="ILYN_PAYNE" id="355" weight="4" />
+      <edge source="JOFFREY" target="RENLY" id="356" weight="3" />
+      <edge source="JOFFREY" target="TYWIN" id="357" weight="3" />
+      <edge source="JOFFREY" target="YOREN" id="358" weight="3" />
+      <edge source="JOFFREY" target="BAELOR" id="359" weight="2" />
+      <edge source="JOFFREY" target="JEOR" id="360" weight="2" />
+      <edge source="JOFFREY" target="TOMMEN" id="361" weight="2" />
+      <edge source="JOFFREY" target="WILL" id="362" weight="2" />
+      <edge source="SANSA" target="SEPTA_MORDANE" id="363" weight="64" />
+      <edge source="SANSA" target="HOUND" id="364" weight="19" />
+      <edge source="SANSA" target="PYCELLE" id="365" weight="13" />
+      <edge source="SANSA" target="MERYN_TRANT" id="366" weight="10" />
+      <edge source="SANSA" target="RENLY" id="367" weight="5" />
+      <edge source="SANSA" target="ILYN_PAYNE" id="368" weight="4" />
+      <edge source="SANSA" target="LORAS" id="369" weight="4" />
+      <edge source="SANSA" target="MOUNTAIN" id="370" weight="4" />
+      <edge source="SANSA" target="MYCAH" id="371" weight="4" />
+      <edge source="SANSA" target="YOREN" id="372" weight="4" />
+      <edge source="SANSA" target="AERYS" id="373" weight="2" />
+      <edge source="SANSA" target="BAELOR" id="374" weight="2" />
+      <edge source="SANSA" target="HUGH_OF_THE_VALE" id="375" weight="2" />
+      <edge source="SANSA" target="JAIME" id="376" weight="2" />
+      <edge source="SANSA" target="MAESTER_LUWIN" id="377" weight="2" />
+      <edge source="SANSA" target="STANNIS" id="378" weight="2" />
+      <edge source="PYCELLE" target="ROS" id="379" weight="9" />
+      <edge source="PYCELLE" target="RENLY" id="380" weight="8" />
+      <edge source="PYCELLE" target="BARRISTAN" id="381" weight="4" />
+      <edge source="PYCELLE" target="JON_ARRYN" id="382" weight="3" />
+      <edge source="PYCELLE" target="BAELOR" id="383" weight="2" />
+      <edge source="PYCELLE" target="JANOS" id="384" weight="2" />
+      <edge source="PYCELLE" target="TYWIN" id="385" weight="2" />
+      <edge source="PYCELLE" target="YOREN" id="386" weight="2" />
+      <edge source="VISERYS" target="DOREAH" id="387" weight="30" />
+      <edge source="VISERYS" target="ILLYRIO" id="388" weight="25" />
+      <edge source="VISERYS" target="IRRI" id="389" weight="3" />
+      <edge source="VISERYS" target="RAKHARO" id="390" weight="3" />
+      <edge source="VISERYS" target="RHAEGO" id="391" weight="2" />
+      <edge source="SEPTA_MORDANE" target="AERYS" id="392" weight="2" />
+      <edge source="TYWIN" target="JAIME" id="393" weight="34" />
+      <edge source="TYWIN" target="KEVAN" id="394" weight="12" />
+      <edge source="TYWIN" target="SHAGGA" id="395" weight="6" />
+      <edge source="TYWIN" target="GREATJON_UMBER" id="396" weight="3" />
+      <edge source="TYWIN" target="ADDAM_MARBRAND" id="397" weight="2" />
+      <edge source="TYWIN" target="RODRIK" id="398" weight="2" />
+      <edge source="JEOR" target="PYP" id="399" weight="10" />
+      <edge source="JEOR" target="ALLISER_THORNE" id="400" weight="9" />
+      <edge source="JEOR" target="MAESTER_AEMON" id="401" weight="9" />
+      <edge source="JEOR" target="OTHELL_YARWYCK" id="402" weight="6" />
+      <edge source="JEOR" target="OTHOR" id="403" weight="6" />
+      <edge source="JEOR" target="GRENN" id="404" weight="4" />
+      <edge source="JEOR" target="BENJEN" id="405" weight="2" />
+      <edge source="JEOR" target="DAREON" id="406" weight="2" />
+      <edge source="JEOR" target="JAREMY_RYKKER" id="407" weight="2" />
+      <edge source="THEON" target="ROS" id="408" weight="40" />
+      <edge source="THEON" target="BRAN" id="409" weight="26" />
+      <edge source="THEON" target="OSHA" id="410" weight="25" />
+      <edge source="THEON" target="MAESTER_LUWIN" id="411" weight="13" />
+      <edge source="THEON" target="GREATJON_UMBER" id="412" weight="11" />
+      <edge source="THEON" target="RODRIK" id="413" weight="8" />
+      <edge source="THEON" target="JAIME" id="414" weight="4" />
+      <edge source="THEON" target="BALON" id="415" weight="3" />
+      <edge source="THEON" target="HODOR" id="416" weight="3" />
+      <edge source="THEON" target="WALDER" id="417" weight="3" />
+      <edge source="THEON" target="JORY_CASSEL" id="418" weight="2" />
+      <edge source="THEON" target="OLD_NAN" id="419" weight="2" />
+      <edge source="THEON" target="RICKARD_KARSTARK" id="420" weight="2" />
+      <edge source="THEON" target="WILL" id="421" weight="2" />
+      <edge source="BRAN" target="MAESTER_LUWIN" id="422" weight="53" />
+      <edge source="BRAN" target="OSHA" id="423" weight="29" />
+      <edge source="BRAN" target="RICKON" id="424" weight="14" />
+      <edge source="BRAN" target="HODOR" id="425" weight="11" />
+      <edge source="BRAN" target="JAIME" id="426" weight="9" />
+      <edge source="BRAN" target="OLD_NAN" id="427" weight="9" />
+      <edge source="BRAN" target="RODRIK" id="428" weight="5" />
+      <edge source="BRAN" target="WILL" id="429" weight="3" />
+      <edge source="BRAN" target="ASSASSIN" id="430" weight="2" />
+      <edge source="BRAN" target="BRANDON_STARK" id="431" weight="2" />
+      <edge source="BRAN" target="HOUND" id="432" weight="2" />
+      <edge source="MAESTER_LUWIN" target="OSHA" id="433" weight="12" />
+      <edge source="MAESTER_LUWIN" target="RODRIK" id="434" weight="2" />
+      <edge source="JAIME" target="JORY_CASSEL" id="435" weight="27" />
+      <edge source="JAIME" target="KEVAN" id="436" weight="5" />
+      <edge source="JAIME" target="BARRISTAN" id="437" weight="4" />
+      <edge source="JAIME" target="ROS" id="438" weight="4" />
+      <edge source="JAIME" target="AERYS" id="439" weight="3" />
+      <edge source="JAIME" target="GREATJON_UMBER" id="440" weight="3" />
+      <edge source="JAIME" target="HOUND" id="441" weight="2" />
+      <edge source="JAIME" target="JON_ARRYN" id="442" weight="2" />
+      <edge source="JAIME" target="RICKARD_STARK" id="443" weight="2" />
+      <edge source="JAIME" target="TYSHA" id="444" weight="2" />
+      <edge source="LORAS" target="RENLY" id="445" weight="47" />
+      <edge source="LORAS" target="HOUND" id="446" weight="4" />
+      <edge source="LORAS" target="MOUNTAIN" id="447" weight="4" />
+      <edge source="LORAS" target="MACE" id="448" weight="2" />
+      <edge source="RENLY" target="STANNIS" id="449" weight="11" />
+      <edge source="RENLY" target="BARRISTAN" id="450" weight="3" />
+      <edge source="RENLY" target="JANOS" id="451" weight="3" />
+      <edge source="RENLY" target="AERYS" id="452" weight="2" />
+      <edge source="RENLY" target="GREATJON_UMBER" id="453" weight="2" />
+      <edge source="RENLY" target="LANCEL" id="454" weight="2" />
+      <edge source="RENLY" target="TOMARD" id="455" weight="2" />
+      <edge source="MIRRI_MAZ_DUUR" target="QOTHO" id="456" weight="15" />
+      <edge source="MIRRI_MAZ_DUUR" target="RAKHARO" id="457" weight="4" />
+      <edge source="SYRIO_FOREL" target="MERYN_TRANT" id="458" weight="11" />
+      <edge source="JORY_CASSEL" target="HUGH_OF_THE_VALE" id="459" weight="7" />
+      <edge source="JORY_CASSEL" target="MHAEGEN" id="460" weight="2" />
+      <edge source="PYP" target="GRENN" id="461" weight="36" />
+      <edge source="PYP" target="ALLISER_THORNE" id="462" weight="10" />
+      <edge source="PYP" target="RAST" id="463" weight="10" />
+      <edge source="PYP" target="DAREON" id="464" weight="8" />
+      <edge source="PYP" target="MAESTER_AEMON" id="465" weight="6" />
+      <edge source="PYP" target="BORCAS" id="466" weight="2" />
+      <edge source="PYP" target="BOWEN_MARSH" id="467" weight="2" />
+      <edge source="PYP" target="JAREMY_RYKKER" id="468" weight="2" />
+      <edge source="PYP" target="LUKE" id="469" weight="2" />
+      <edge source="PYP" target="OTHELL_YARWYCK" id="470" weight="2" />
+      <edge source="PYP" target="OTHOR" id="471" weight="2" />
+      <edge source="GRENN" target="ALLISER_THORNE" id="472" weight="7" />
+      <edge source="GRENN" target="RAST" id="473" weight="6" />
+      <edge source="GRENN" target="DAREON" id="474" weight="2" />
+      <edge source="WALDER" target="RYGER_RIVERS" id="475" weight="4" />
+      <edge source="WALDER" target="STEVRON_FREY" id="476" weight="4" />
+      <edge source="WALDER" target="HOSTER" id="477" weight="3" />
+      <edge source="WALDER" target="GREATJON_UMBER" id="478" weight="2" />
+      <edge source="WALDER" target="JOYEUSE" id="479" weight="2" />
+      <edge source="DOREAH" target="IRRI" id="480" weight="5" />
+      <edge source="DOREAH" target="WINE_MERCHANT" id="481" weight="3" />
+      <edge source="DOREAH" target="IROGENIA" id="482" weight="2" />
+      <edge source="DOREAH" target="JHIQUI" id="483" weight="2" />
+      <edge source="BENJEN" target="YOREN" id="484" weight="5" />
+      <edge source="IRRI" target="RAKHARO" id="485" weight="11" />
+      <edge source="IRRI" target="JHIQUI" id="486" weight="3" />
+      <edge source="GREATJON_UMBER" target="RODRIK" id="487" weight="7" />
+      <edge source="GREATJON_UMBER" target="GALBART_GLOVER" id="488" weight="2" />
+      <edge source="GREATJON_UMBER" target="RICKARD_KARSTARK" id="489" weight="2" />
+      <edge source="GREATJON_UMBER" target="STANNIS" id="490" weight="2" />
+      <edge source="MORD" target="LYSA" id="491" weight="5" />
+      <edge source="MORD" target="ROBIN" id="492" weight="3" />
+      <edge source="MORD" target="VARDIS_EGEN" id="493" weight="3" />
+      <edge source="MORD" target="RODRIK" id="494" weight="2" />
+      <edge source="LYSA" target="ROBIN" id="495" weight="30" />
+      <edge source="LYSA" target="VARDIS_EGEN" id="496" weight="7" />
+      <edge source="LYSA" target="JON_ARRYN" id="497" weight="5" />
+      <edge source="RAKHARO" target="QOTHO" id="498" weight="3" />
+      <edge source="RAKHARO" target="WINE_MERCHANT" id="499" weight="3" />
+      <edge source="ROBIN" target="JON_ARRYN" id="500" weight="3" />
+      <edge source="ROBIN" target="VARDIS_EGEN" id="501" weight="3" />
+      <edge source="OSHA" target="RICKON" id="502" weight="3" />
+      <edge source="OSHA" target="HODOR" id="503" weight="2" />
+      <edge source="RODRIK" target="MARILLION" id="504" weight="5" />
+      <edge source="MAESTER_AEMON" target="AEGON" id="505" weight="2" />
+      <edge source="MAESTER_AEMON" target="AERYS" id="506" weight="2" />
+      <edge source="MAESTER_AEMON" target="ALLISER_THORNE" id="507" weight="2" />
+      <edge source="MAESTER_AEMON" target="DAREON" id="508" weight="2" />
+      <edge source="BARRISTAN" target="LANCEL" id="509" weight="3" />
+      <edge source="BARRISTAN" target="AERYS" id="510" weight="2" />
+      <edge source="SHAGGA" target="KEVAN" id="511" weight="2" />
+      <edge source="YOREN" target="BAELOR" id="512" weight="4" />
+      <edge source="YOREN" target="ILYN_PAYNE" id="513" weight="4" />
+      <edge source="YOREN" target="GENDRY" id="514" weight="2" />
+      <edge source="YOREN" target="HOUND" id="515" weight="2" />
+      <edge source="YOREN" target="MARILLION" id="516" weight="2" />
+      <edge source="ALLISER_THORNE" target="RAST" id="517" weight="4" />
+      <edge source="ALLISER_THORNE" target="OTHELL_YARWYCK" id="518" weight="3" />
+      <edge source="HOUND" target="MERYN_TRANT" id="519" weight="8" />
+      <edge source="HOUND" target="MOUNTAIN" id="520" weight="5" />
+      <edge source="HOUND" target="ILYN_PAYNE" id="521" weight="3" />
+      <edge source="HOUND" target="BAELOR" id="522" weight="2" />
+      <edge source="MARILLION" target="MERYN_TRANT" id="523" weight="2" />
+      <edge source="KEVAN" target="ADDAM_MARBRAND" id="524" weight="3" />
+      <edge source="KEVAN" target="LEO_LEFFORD" id="525" weight="2" />
+      <edge source="GENDRY" target="TOBHO_MOTT" id="526" weight="5" />
+      <edge source="GENDRY" target="HOT_PIE" id="527" weight="3" />
+      <edge source="HOT_PIE" target="LOMMY_GREENHANDS" id="528" weight="12" />
+      <edge source="MERYN_TRANT" target="ILYN_PAYNE" id="529" weight="2" />
+      <edge source="JON_ARRYN" target="HUGH_OF_THE_VALE" id="530" weight="2" />
+      <edge source="STANNIS" target="TOMARD" id="531" weight="2" />
+      <edge source="RAST" target="DAREON" id="532" weight="2" />
+      <edge source="AERYS" target="RICKARD_STARK" id="533" weight="4" />
+      <edge source="AERYS" target="RHAEGAR" id="534" weight="3" />
+      <edge source="AERYS" target="AEGON" id="535" weight="2" />
+      <edge source="BAELOR" target="ILYN_PAYNE" id="536" weight="3" />
+      <edge source="DAREON" target="BORCAS" id="537" weight="2" />
+      <edge source="DAREON" target="BOWEN_MARSH" id="538" weight="2" />
+      <edge source="DAREON" target="LUKE" id="539" weight="2" />
+      <edge source="HUGH_OF_THE_VALE" target="MOUNTAIN" id="540" weight="2" />
+      <edge source="OTHELL_YARWYCK" target="JAREMY_RYKKER" id="541" weight="2" />
+      <edge source="GARED" target="ROYCE" id="542" weight="5" />
+      <edge source="GARED" target="WILL" id="543" weight="4" />
+      <edge source="ROYCE" target="WILL" id="544" weight="4" />
+      <edge source="JONOS_BRACKEN" target="GALBART_GLOVER" id="545" weight="2" />
+      <edge source="RICKARD_STARK" target="BRANDON_STARK" id="546" weight="2" />
+      <edge source="WILL" target="WAYMAR_ROYCE" id="547" weight="4" />
+      <edge source="ADDAM_MARBRAND" target="LEO_LEFFORD" id="548" weight="3" />
+    </edges>
+  </graph>
+</gexf>
